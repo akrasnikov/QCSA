@@ -1,0 +1,8 @@
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\ECAS.Toolkit.Logger.dll.config
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\ECAS.Toolkit.Logger.dll
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\ECAS.Toolkit.Logger.pdb
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\log4net.dll
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\log4net.xml
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\obj\Debug\ECAS.Toolkit.Logger.dll
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\obj\Debug\ECAS.Toolkit.Logger.pdb
+C:\Project\acceptcotton\ECAS.Toolkit.Logger\bin\Debug\log4net.config

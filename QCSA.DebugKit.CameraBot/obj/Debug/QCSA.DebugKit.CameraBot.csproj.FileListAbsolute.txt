@@ -1,0 +1,1 @@
+C:\Project\acceptcotton\QCSA.DebugKit.CameraBot\bin\Debug\QCSA.DebugKit.CameraBot.exe.config

@@ -1,0 +1,17 @@
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Files\tux.png
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\QCSA.DebugKit.TelegramBot.exe
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\QCSA.DebugKit.TelegramBot.pdb
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\ECAS.Toolkit.Camera.dll
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Newtonsoft.Json.dll
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Telegram.Bot.dll
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Topshelf.dll
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\ECAS.Toolkit.Camera.pdb
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Newtonsoft.Json.xml
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Telegram.Bot.xml
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\Topshelf.xml
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\obj\Release\QCSA.DebugKit.TelegramBot.csprojResolveAssemblyReference.cache
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\obj\Release\QCSA.DebugKit.TelegramBot.Properties.Resources.resources
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\obj\Release\QCSA.DebugKit.TelegramBot.csproj.GenerateResource.Cache
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\obj\Release\QCSA.DebugKit.TelegramBot.exe
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\obj\Release\QCSA.DebugKit.TelegramBot.pdb
+C:\Project\acceptcotton\QCSA.DebugKit.TelegramBot\bin\Release\CameraXML

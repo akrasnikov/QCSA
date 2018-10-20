@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A287BB96-EE78-4D7B-98F8-443896D29322}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ECAS.Toolkit.Recognizer</RootNamespace>
+    <AssemblyName>ECAS.Toolkit.Recognizer</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IRecognizer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Recognizer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ECAS.Toolkit.Recognizer.dll" />
+    <Content Include="bin\Debug\ECAS.Toolkit.Recognizer.pdb" />
+    <Content Include="bin\Debug\key.xml" />
+    <Content Include="bin\Debug\native\Cntk.Composite-2.5.1.dll" />
+    <Content Include="bin\Debug\native\Cntk.Core-2.5.1.dll" />
+    <Content Include="bin\Debug\native\Cntk.Math-2.5.1.dll" />
+    <Content Include="bin\Debug\native\cublas64_90.dll" />
+    <Content Include="bin\Debug\native\cudart64_90.dll" />
+    <Content Include="bin\Debug\native\cudnn64_7.dll" />
+    <Content Include="bin\Debug\native\cufft64_90.dll" />
+    <Content Include="bin\Debug\native\curand64_90.dll" />
+    <Content Include="bin\Debug\native\cusparse64_90.dll" />
+    <Content Include="bin\Debug\native\libiomp5md.dll" />
+    <Content Include="bin\Debug\native\mklml.dll" />
+    <Content Include="bin\Debug\native\msvcp120.dll" />
+    <Content Include="bin\Debug\native\msvcr120.dll" />
+    <Content Include="bin\Debug\native\nppc64_90.dll" />
+    <Content Include="bin\Debug\native\nppig64_90.dll" />
+    <Content Include="bin\Debug\native\nvml.dll" />
+    <Content Include="bin\Debug\native\opencv_core971.dll" />
+    <Content Include="bin\Debug\native\opencv_imgcodecs971.dll" />
+    <Content Include="bin\Debug\native\opencv_imgproc971.dll" />
+    <Content Include="bin\Debug\native\SimpleLPR3_native.dll" />
+    <Content Include="bin\Debug\native\SimpleLPR_C.exe" />
+    <Content Include="bin\Debug\native\SimpleLPR_CPP.exe" />
+    <Content Include="bin\Debug\native\tbb.dll" />
+    <Content Include="bin\Debug\native\tbbmalloc.dll" />
+    <Content Include="bin\Debug\native\tbbmalloc_proxy.dll" />
+    <Content Include="bin\Debug\native\vccorlib120.dll" />
+    <Content Include="bin\Debug\SimpleLPR3.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+C:\Project\acceptcotton\ECAS.Toolkit.Camera\bin\Release\ECAS.Toolkit.Camera.dll
+C:\Project\acceptcotton\ECAS.Toolkit.Camera\bin\Release\ECAS.Toolkit.Camera.pdb
+C:\Project\acceptcotton\ECAS.Toolkit.Camera\obj\Release\ECAS.Toolkit.Camera.dll
+C:\Project\acceptcotton\ECAS.Toolkit.Camera\obj\Release\ECAS.Toolkit.Camera.pdb

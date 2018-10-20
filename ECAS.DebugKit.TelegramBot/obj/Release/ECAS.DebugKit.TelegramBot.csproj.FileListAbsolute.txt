@@ -1,0 +1,10 @@
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\ECAS.DebugKit.TelegramBot.exe.config
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\ECAS.DebugKit.TelegramBot.exe
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\ECAS.DebugKit.TelegramBot.pdb
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\Newtonsoft.Json.dll
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\Telegram.Bot.dll
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\Newtonsoft.Json.xml
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\bin\Release\Telegram.Bot.xml
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\obj\Release\ECAS.DebugKit.TelegramBot.csprojResolveAssemblyReference.cache
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\obj\Release\ECAS.DebugKit.TelegramBot.exe
+C:\Project\acceptcotton\ECAS.DebugKit.TelegramBot\obj\Release\ECAS.DebugKit.TelegramBot.pdb

@@ -1,0 +1,8 @@
+C:\Project\acceptcotton\CameraAgent\bin\Debug\CameraAgent.exe.config
+C:\Project\acceptcotton\CameraAgent\bin\Debug\CameraAgent.exe
+C:\Project\acceptcotton\CameraAgent\bin\Debug\CameraAgent.pdb
+C:\Project\acceptcotton\CameraAgent\bin\Debug\Topshelf.dll
+C:\Project\acceptcotton\CameraAgent\bin\Debug\Topshelf.xml
+C:\Project\acceptcotton\CameraAgent\obj\Debug\CameraAgent.csprojResolveAssemblyReference.cache
+C:\Project\acceptcotton\CameraAgent\obj\Debug\CameraAgent.exe
+C:\Project\acceptcotton\CameraAgent\obj\Debug\CameraAgent.pdb

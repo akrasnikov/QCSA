@@ -1,0 +1,12 @@
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\QCSA.Layer.Presentation.exe.config
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\QCSA.Layer.Presentation.exe
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\QCSA.Layer.Presentation.pdb
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\MetroFramework.Design.dll
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\MetroFramework.dll
+C:\Project\acceptcotton\QCSA.Layer.Presentation\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.csprojResolveAssemblyReference.cache
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.Form1.resources
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.Properties.Resources.resources
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.csproj.GenerateResource.Cache
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.exe
+C:\Project\acceptcotton\QCSA.Layer.Presentation\obj\Debug\QCSA.Layer.Presentation.pdb

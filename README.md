@@ -1,13 +1,4 @@
-﻿MetroFramework - WinForms on steroids.
---------------------------------------
-
-Процедура установки Entity Framework 6.2.0
-
-
-ContentProvider: загрузка и отображение контактов телефона
-
-DataServiceProvider - синхронизиция данных
-
-InvalidOperationException
-
-trailer number recognition Trailer-NR System TN-Rec
+﻿Ситема управления качеством продукции в цехе на сборочной линии
+- Учет количества выпускаемой продукции
+- Фотофиксация комплектации продукции
+- Тайменежмент одной операции выполняемой сборщиком
